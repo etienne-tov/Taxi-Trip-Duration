@@ -1,7 +1,7 @@
 
 # NYC Taxi Trip Duration Prediction
 
-![NYC Taxi]([https://images.unsplash.com/photo-1496056987863-8a3ebd347f61](https://www.featuretools.com/wp-content/uploads/2018/12/taxi-min-1024x1024.jpg)
+![NYC Taxi](https://www.featuretools.com/wp-content/uploads/2018/12/taxi-min-1024x1024.jpg)
 
 ## Overview
 
